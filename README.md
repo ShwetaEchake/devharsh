@@ -26,3 +26,7 @@
 5. **Start the Development Server: Run the Laravel development server**:
     - php artisan serve
 
+ Login Credentails: 
+    Username : admin@gmail.com
+    Password : 12345678
+
